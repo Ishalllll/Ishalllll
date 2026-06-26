@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm Faishal, a college student at Institute of Technology Sepuluh Nopember who highly interested in data science !!!
+I mostly learning on predictive stuff - Python, Data Science, Machine Learning.
+I also interested on AI/NLP btw.
+
+This is a profile where i'll be uploading some projects, experiments, and things that currently make me curious.
+---
+ppp
+
 
 <!--
 **Ishalllll/Ishalllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
