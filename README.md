@@ -4,6 +4,7 @@ I mostly learning on predictive stuff - Python, Data Science, Machine Learning.
 I also interested on AI/NLP btw.
 
 This is a profile where i'll be uploading some projects, experiments, and things that currently make me curious.
+
 ---
 ppp
 
