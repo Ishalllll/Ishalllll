@@ -6,7 +6,11 @@ I also interested on AI/NLP btw.
 This is a profile where i'll be uploading some projects, experiments, and things that currently make me curious.
 
 ---
-ppp
+## Tools
+- Pandas & Numpy
+- Matplotlib & Seaborn
+- Scikit-Learn
+
 
 
 <!--
