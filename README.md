@@ -11,7 +11,9 @@ This is a profile where i'll be uploading some projects, experiments, and things
 - Matplotlib & Seaborn
 - Scikit-Learn
 
-
+---
+## A Bit About Me
+- Suka sisihin sambel
 
 <!--
 **Ishalllll/Ishalllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
