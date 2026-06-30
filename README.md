@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Faishal, a college student at Institute of Technology Sepuluh Nopember who highly interested in data science !!!
+I'm Faishal, a college student at Institute of Technology Sepuluh Nopember who highly interested in data science!!!
 I mostly learning on predictive stuff - Python, Data Science, Machine Learning.
 I also interested on AI/NLP btw.
 
